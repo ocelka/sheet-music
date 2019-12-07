@@ -1,5 +1,5 @@
 \header {
-  title = "Okénko"
+  title = "ой ты, дивчино - Okénko"
   composer = "Composer"
 }
 
