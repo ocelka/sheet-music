@@ -1,6 +1,6 @@
 \header {
-  title = "ой ты, дивчино - Okénko"
-  composer = "Composer"
+  title = "Oй ты, дивчино - Okénko"
+  composer = "Украинская народная песня"
 }
 
 hudba = {
