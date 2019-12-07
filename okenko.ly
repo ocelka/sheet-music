@@ -3,6 +3,8 @@
   composer = "Украинская народная песня"
 }
 
+
+#(set-global-staff-size 29)
 hudba=  {
 \bar "|."\time 3/8 
   \new PianoStaff <<
